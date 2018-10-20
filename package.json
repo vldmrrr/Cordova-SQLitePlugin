@@ -1,0 +1,39 @@
+{
+  "name": "com.brodysoft.sqlitePlugin",
+  "version": "1.0.3",
+  "description": "Native interface to SQLite for PhoneGap/Cordova. Allows you to use more storage and provides more flexibility than the standard Web SQL database (window.openDatabase).",
+  "cordova": {
+    "id": "com.brodysoft.sqlitePlugin",
+    "platforms": [
+      "android",
+      "amazon-fireos",
+      "ios",
+      "wp8",
+      "windows"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vldmrrr/Cordova-SQLitePlugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-amazon-fireos",
+    "cordova-ios",
+    "cordova-wp8",
+    "cordova-windows"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.3.0"
+    }
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vldmrrr/Cordova-SQLitePlugin/issues"
+  },
+  "homepage": "https://github.com/vldmrrr/Cordova-SQLitePlugin#readme"
+}
